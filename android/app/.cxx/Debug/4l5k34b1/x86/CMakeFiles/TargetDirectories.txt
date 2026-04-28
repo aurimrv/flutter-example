@@ -1,0 +1,2 @@
+/home/auri/insync/StudioProjects/flutter/alcool_gasolina/android/app/.cxx/Debug/4l5k34b1/x86/CMakeFiles/rebuild_cache.dir
+/home/auri/insync/StudioProjects/flutter/alcool_gasolina/android/app/.cxx/Debug/4l5k34b1/x86/CMakeFiles/edit_cache.dir
